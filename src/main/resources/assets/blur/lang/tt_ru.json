@@ -1,0 +1,15 @@
+{
+  "blur.midnightconfig.title": "Blur көйләүләре",
+  "blur.midnightconfig.category.style": "Стиль",
+  "blur.midnightconfig.category.screens": "Экраннар",
+  "blur.midnightconfig.blurExclusions": "Тоныклык чыгармалары",
+  "blur.midnightconfig.fadeTimeMillis": "Кушу вакыты (миллисекундларда)",
+  "blur.midnightconfig.fadeOutTimeMillis": "Сүнү вакыты (миллисекундларда)",
+  "blur.midnightconfig.ease": "Анимация җиңеллеге",
+  "blur.midnightconfig.radius": "Радиус",
+  "blur.midnightconfig.gradientStart": "Градиент башлангыч төсе",
+  "blur.midnightconfig.gradientEnd": "Градиент соңгы төсе",
+  "blur.midnightconfig.gradientStartAlpha": "Градиент башлангыч альфасы",
+  "blur.midnightconfig.gradientEndAlpha": "Градиент соңгы альфасы",
+  "blur.midnightconfig.showScreenTitle": "Журнал экранының исеме"
+}
